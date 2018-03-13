@@ -1,6 +1,12 @@
 #Run in version Python 2.7
 #Speech to Text Recognition using Google Speech API
 
+#This feels like the easiest Speech Recognition API out there atm
+#It also has the ability to take in audio files and read them back to you
+#This format basically finds your microphone and you speak into it
+#Obviously I'm no expert and I don't know how to tweak this to the best settings
+#Overall pretty good
+
 #sudo pip install SpeechRecognition (Windows)
 
 #sudo apt-get install python-pyaudio python3-pyaudio (Linux)
